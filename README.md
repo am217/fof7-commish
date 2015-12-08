@@ -48,6 +48,11 @@ Trades may be processed before or after sims. I do it before unless otherwise sp
 ### Manual intervention
 The commissioner can release players, alter depth charts, or assign franchise tags if necessary. To do the latter two, you must take control of the team by going to **Game Options > Choose/Edit Color Scheme** and selecting the team of choice.
 
+This will be necessary in season if teams need to add players that they want to deactivate, or place on their depth chart, for a game sim.
+
+For example, if a player needs to sign a kicker to field a legal roster, he should clear room for one player, offer two kickers, notify the commissioner which kicker to release if both sign, and tell the commissioner where to place the new signee on the depth chart.
+
+A commissioner is not able to make contract offers for teams.
 ## Drafting & Offseason
 
 We use the [Draft Conscriptor](http://www.operationsports.com/fofc/showthread.php?t=86357) utility to accomplish drafts.
